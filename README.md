@@ -15,8 +15,8 @@ This is a tutorial code demonstrating how to use Java write NIO . Pull requests 
 
 ## How to use
 ```shell
-$ javac NioHTTPClient.java
-$ java NioHTTPClient http://example.org example.html
+$ javac Downloader.java
+$ java Downloader http://example.org example.html
 Downloading...1256
 Remaining: 0/1256 bytes
 Download completed
